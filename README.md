@@ -1,4 +1,4 @@
-title: Player Re-Identification  
+
 
 # 🏃‍♂️ Player Re-Identification in Sports Footage
 
@@ -52,4 +52,4 @@ Install dependencies
 pip install -r requirements.txt
 Run the app
 
-streamlit run app.py
+streamlit run task1.py
