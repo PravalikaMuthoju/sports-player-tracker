@@ -7,11 +7,12 @@ This project is developed as part of the AI Internship assignment by **Liat AI**
 ## 🚀 Task Options
 
 * Re-identification within a Single Camera Feed`
-
 - Track players throughout a 15-second sports video.
 - Ensure that players who leave and re-enter the frame keep the same ID.
 - Implemented with a Hugging Face DETR model (Transformer-based detection).
 - Built using Streamlit for an interactive frontend.
+  
+  ## Hugging face Deployment : https://huggingface.co/spaces/Pravalikamuthoju2005/player-reid-liat-ai
 
 ## 🛠️ Tech Stack
 
